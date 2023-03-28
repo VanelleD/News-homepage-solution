@@ -14,7 +14,7 @@ Semantic HTML5 markup
 CSS custom properties
 Flexbox
 CSS Grid
-Mobile-first workflow
+Mobile-first workflow and JavaScript
 
 What I learned:
 This project really help me learn alot about grids and improved my knowledge of flexbox. Also I believe my JavaScript skills have improved thanks to this project.
